@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello 👋
+
+- Working as frontend developer in Vecora 🤓 
+
 
 <!--
 **Objektorientert/Objektorientert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
