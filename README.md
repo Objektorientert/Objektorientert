@@ -1,6 +1,6 @@
 ### Hello 👋
 
-- Working as frontend developer in Vecora 🤓 
+- Frontend developer in Vecora 🤓 
 
 
 <!--
