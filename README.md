@@ -1,7 +1,6 @@
-### Hello 👋
+### Hey 👋
 
-- Frontend developer in Vecora 🤓 
-
+- Interaction designer at [Vecora](https://vecora.no) 🤓
 
 <!--
 **Objektorientert/Objektorientert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
