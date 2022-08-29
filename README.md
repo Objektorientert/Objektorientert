@@ -1,6 +1,6 @@
 ### Hey 👋
 
-- Full-stack Designer at [Vecora](https://vecora.no) 🤓
+- Designer at [Time and Date](https://timeanddate.com) 🤓
 
 <!--
 **Objektorientert/Objektorientert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
